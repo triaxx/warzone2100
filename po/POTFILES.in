@@ -293,6 +293,14 @@ lib/ivis_opengl/png_util.cpp
 lib/ivis_opengl/screen.cpp
 lib/ivis_opengl/tex.cpp
 lib/ivis_opengl/textdraw.cpp
+lib/maplib/map.cpp
+lib/maplib/map_crc.cpp
+lib/maplib/map_debug.cpp
+lib/maplib/map_internal.cpp
+lib/maplib/map_io.cpp
+lib/maplib/map_preview.cpp
+lib/maplib/map_script.cpp
+lib/maplib/map_terrain_types.cpp
 lib/netplay/netjoin_stub.cpp
 lib/netplay/netlog.cpp
 lib/netplay/netplay.cpp
